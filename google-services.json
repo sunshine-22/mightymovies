@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348281051730",
+    "project_id": "mightymovies-88422",
+    "storage_bucket": "mightymovies-88422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348281051730:android:b11f371ea65af31ad29d8b",
+        "android_client_info": {
+          "package_name": "com.mightymovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348281051730-o3rpvcsngbsufldgp82vg06e3s58i578.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkF7y7ff_fJF9Okty8LPvusxQQ6HgtiQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348281051730-o3rpvcsngbsufldgp82vg06e3s58i578.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
